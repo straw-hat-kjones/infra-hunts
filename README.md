@@ -6,7 +6,7 @@ Indicators and search queries for infrastructure I track. One plain-text file pe
 |---|---|---|---|
 | [AntiFox](AntiFox.md) | Exposed AntiFox consoles (AI pentest platform, fork of ARTEX). | Shodan | 161 |
 | [ARTEX behind basic auth](ARTEX-Basic-Auth.md) | ARTEX-family consoles hidden behind an HTTP basic-auth prompt whose realm names the product. | Shodan | 10 |
-| [ARTEX family](ARTEX-Family.md) | Exposed consoles of ARTEX and its forks/rebrands (AntiFox, ScopeWeaver, renamed builds). Run both Shodan queries and union the results. | Shodan | - |
+| [ARTEX family](ARTEX-Family.md) | Exposed consoles of ARTEX and its forks/rebrands (AntiFox, ScopeWeaver, renamed builds). Run both Shodan queries and union the results. | Shodan | 1659 |
 
 ## File format
 
