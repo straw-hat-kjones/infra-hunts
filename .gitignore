@@ -1,0 +1,44 @@
+# This repo publishes indicators and queries only (Markdown files).
+# Everything below is ignored so collection tooling and raw data cannot be committed by accident.
+
+# Collection scripts and tracker definitions
+*.py
+*.sh
+*.ipynb
+*.json
+*.yaml
+*.yml
+*.toml
+
+# Raw exports and working data
+*.gz
+*.zip
+*.csv
+*.tsv
+*.jsonl
+*.log
+*.txt
+*.pcap
+*.pcapng
+raw/
+data/
+exports/
+scratch/
+tmp/
+
+# Credentials and local config
+.env
+.env.*
+*.key
+*.pem
+api_key
+.shodan/
+.config/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
