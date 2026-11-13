@@ -12,7 +12,7 @@ Indicators and search queries for infrastructure I track. One plain-text file pe
 
 ## File format
 
-Each tracker is a Markdown file. Every section is a fenced code block with one item per line, so entries can be copied or extracted without Markdown noise. Sections used: `Shodan`, `Censys`, `FOFA`, `IPs`, `Domains`, `URLs`. Empty sections are omitted. A query is listed only after it has been run and checked on that platform.
+Each tracker is a Markdown file. Every section is a fenced code block with one item per line, so entries can be copied or extracted without Markdown noise. Sections used: `Shodan`, `Censys`, `FOFA`, `Names`, `IPs`, `Domains`, `URLs`. `Names` lists the page titles seen on the listed hosts, for trackers that cover software served under many names. Empty sections are omitted. A query is listed only after it has been run and checked on that platform.
 
 ## Read this before using the data
 

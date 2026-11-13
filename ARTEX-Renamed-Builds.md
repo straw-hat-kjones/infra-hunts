@@ -9,6 +9,51 @@ http.html:"4384baud_6ozc.css"
 http.html:"4384baud_6ozc.css" http.html:"turbopack-3p84inqw3zu8w.js"
 ```
 
+## Names
+
+```
+4zrec
+4zreco
+Approve — 受控 AI 安全编排与多端执行平台
+A情报中心
+BG · AI GATEWAY
+Bob Research Labs: We're coming to root your server!
+Console
+CYBORG
+FX戦士くるみちゃん Controller
+HACK DOG — AI 自主攻击面验证平台
+Individual Combat Intelligence System
+lack
+Marrio
+NCPD
+NOVA 213: Autonomous Security Control Node
+Nova Console
+Nu-TT: Autonomous Security Control Node
+Ops Console
+orgtokencyber
+PP — 作战指挥任务控制台
+SCA Audit — 代码审计平台
+SecOps
+ST AI Red Team — AI 攻击预演控制台
+Ultra 逆向专版 — 静态逆向分析控制台
+Waymark — Console
+WebPowerX — AI 自主渗透测试平台
+XunZong（寻踪） — 代码审计平台
+一键渗透测试神器
+云鲲自动化渗透控制台
+奶蛙
+安全运营Agent
+控制台
+破军·贪狼 · 双子星
+破壁者 · AI 自主渗透平台
+穷奇 — 惩善扬恶
+观澜SEC渗透测试平台
+运维管理平台
+青禾档案室
+驭界智能测试平台 — 新一代AI安全测试平台
+鲸鱼红队渗透系统 — 红队渗透测试控制台
+```
+
 ## IPs
 
 ```
