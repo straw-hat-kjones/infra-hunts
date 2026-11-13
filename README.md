@@ -7,6 +7,7 @@ Indicators and search queries for infrastructure I track. One plain-text file pe
 | [AntiFox](AntiFox.md) | Exposed AntiFox consoles (AI pentest platform, fork of ARTEX). | Shodan | 160 |
 | [ARTEX behind basic auth](ARTEX-Basic-Auth.md) | ARTEX-family consoles hidden behind an HTTP basic-auth prompt whose realm names the product. | Shodan | 13 |
 | [ARTEX family](ARTEX-Family.md) | Exposed consoles of ARTEX and its forks/rebrands (AntiFox, ScopeWeaver, renamed builds). Run both Shodan queries and union the results. | Shodan | 2060 |
+| [ARTEX renamed builds](ARTEX-Renamed-Builds.md) | Consoles built from the ARTEX codebase but served under a different name and icon, so the title and favicon queries in the other trackers miss them. Identified by unchanged frontend build files. The first query matches the whole lineage, including hosts already listed in ARTEX family; the IPs below are only the ones the other trackers do not cover. Some are repurposed (for example as code-audit tools) and some carry neutral titles. | Shodan | 57 |
 | [ScopeWeaver](ScopeWeaver.md) | Exposed ScopeWeaver consoles (English/Korean rebrand of ARTEX). IPs are hosts with ScopeWeaver in the page title. The favicon query is broader and also matches other builds, so check those hits before relying on them. | Shodan | 54 |
 
 ## File format
