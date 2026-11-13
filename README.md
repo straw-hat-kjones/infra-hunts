@@ -4,10 +4,10 @@ Indicators and search queries for infrastructure I track. One plain-text file pe
 
 | Tracker | What it covers | Queries | IPs |
 |---|---|---|---|
-| [AntiFox](AntiFox.md) | Exposed AntiFox consoles (AI pentest platform, fork of ARTEX). | Shodan | 161 |
-| [ARTEX behind basic auth](ARTEX-Basic-Auth.md) | ARTEX-family consoles hidden behind an HTTP basic-auth prompt whose realm names the product. | Shodan | 10 |
-| [ARTEX family](ARTEX-Family.md) | Exposed consoles of ARTEX and its forks/rebrands (AntiFox, ScopeWeaver, renamed builds). Run both Shodan queries and union the results. | Shodan | 1659 |
-| [ScopeWeaver](ScopeWeaver.md) | Exposed ScopeWeaver consoles (English/Korean rebrand of ARTEX). IPs are hosts with ScopeWeaver in the page title. The favicon query is broader and also matches other builds, so check those hits before relying on them. | Shodan | 46 |
+| [AntiFox](AntiFox.md) | Exposed AntiFox consoles (AI pentest platform, fork of ARTEX). | Shodan | 160 |
+| [ARTEX behind basic auth](ARTEX-Basic-Auth.md) | ARTEX-family consoles hidden behind an HTTP basic-auth prompt whose realm names the product. | Shodan | 13 |
+| [ARTEX family](ARTEX-Family.md) | Exposed consoles of ARTEX and its forks/rebrands (AntiFox, ScopeWeaver, renamed builds). Run both Shodan queries and union the results. | Shodan | 2060 |
+| [ScopeWeaver](ScopeWeaver.md) | Exposed ScopeWeaver consoles (English/Korean rebrand of ARTEX). IPs are hosts with ScopeWeaver in the page title. The favicon query is broader and also matches other builds, so check those hits before relying on them. | Shodan | 54 |
 
 ## File format
 
@@ -25,4 +25,4 @@ Each tracker is a Markdown file. Every section is a fenced code block with one i
 - Blog: <https://medium.com/@straw_hat_intel>
 - Email: <keith@strawhatintel.com>
 
-Last updated: 2026-11-11
+Last updated: 2026-11-13
