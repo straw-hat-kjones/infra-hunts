@@ -1,6 +1,6 @@
 # ARTEX renamed builds
 
-Consoles built from the ARTEX codebase but served under a different name and icon, so the title and favicon queries in the other trackers miss them. Identified by unchanged frontend build files. The first query matches the whole lineage, including hosts already listed in ARTEX family; the IPs below are only the ones the other trackers do not cover. Some are repurposed (for example as code-audit tools) and some carry neutral titles.
+Consoles built from the ARTEX codebase but served under a different name and icon, so the title and favicon queries in the other trackers miss them. Identified by unchanged frontend build files. The first query matches the whole lineage, including hosts already listed in ARTEX family; each IP below hosts at least one console that the other trackers' queries do not match. Some are repurposed (for example as code-audit tools) and some carry neutral titles.
 
 ## Shodan
 
